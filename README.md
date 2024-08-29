@@ -19,4 +19,4 @@ Detailed tutorials of Yao Quantum can be found at [yaoquantum.org/documentation]
 
 ## License
 
-Released under [MIT License](https://github.com/luzd19/Deep-quantum-neural-networks_equipped-with-backpropagation/blob/main/LICENSE) 
+Released under [MIT License](https://github.com/luzd19/Experiment_Quantum_Continual_Learning/blob/main/LICENSE) 
