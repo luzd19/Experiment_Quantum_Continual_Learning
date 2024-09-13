@@ -13,7 +13,7 @@ Here, we provide the codes for numerical simulations, data for experimental resu
 
 * [Yao Quantum](https://yaoquantum.org/) - An open-source quantum simulation framework in Julia language
 
-Detailed tutorials of Yao Quantum can be found at [yaoquantum.org/documentation](https://docs.yaoquantum.org/dev/).
+Detailed installation instructions and tutorials of Julia and Yao.jl can be found at [julialang.org](https://julialang.org/) and [yaoquantum.org/documentation](https://docs.yaoquantum.org/dev/).
 
 
 ## License
